@@ -9,3 +9,6 @@ $ cd cacafire
 $ pkg install libcaca
 $ cacafire
 ```
+
+
+Edit: [editor on GitHub](https://github.com/yanlimeng/TBannerG.linux/edit/gh-pages/index.md) 
