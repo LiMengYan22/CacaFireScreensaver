@@ -1,5 +1,5 @@
 # TERMUX
-**CACAFIRE** ScreenSaver on Fire
+**CACAFIRE** ScreenSaver on Fire.
 
 ```markdown
 $ mkdir cacafire
